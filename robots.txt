@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-knr4bl.salamcuanwin.cfd/sitemap.xml
